@@ -27,12 +27,13 @@ Key features of the dataset:
 
 **Dashboard Features**
 
-**Sales Overview**
+**Sales Analysis**
 - Total Revenue, Orders, Customers, AOV
 - Monthly Revenue Trend
 - Revenue by Category
 - Revenue by Shopping Mall
 - Revenue by Payment Method
+**Customer Analysis**
 - Revenue by Age Group
 - Revenue by Gender
 
