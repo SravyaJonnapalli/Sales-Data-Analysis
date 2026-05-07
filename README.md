@@ -15,10 +15,11 @@ Key features of the dataset:
 - Shopping mall locations
 
 **Objectives**
-- Analyze revenue trends over time
-- Identify top-performing categories and locations
-- Understand customer demographics and behavior
+- Analyze overall sales performance
+- Identify top-performing product categories and malls
+- Understand customer demographics and spending behavior
 - Evaluate payment method preferences
+- Track monthly revenue trends
 
 **Tools Used**
 - SQL (MySQL) – Data analysis
@@ -42,9 +43,5 @@ Key features of the dataset:
 - Customers aged 25–40 contribute the highest revenue
 - A small group of customers drives a large portion of total sales
 
-**Files Included**
-- Power BI Dashboard (.pbix)
-- Dataset (.csv)
-- SQL Queries (.sql)
- Conclusion
+ **Conclusion**
 This project demonstrates how SQL and Power BI can be used together to transform raw data into meaningful business insights and interactive dashboards.
